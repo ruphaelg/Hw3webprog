@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<songs> 
+<heading> Wedding Song List </heading>
+
+    <song>
+        <title> Is This Love </title>
+        <artist> Corinne Bailey Rae </artist>
+        <genre> R&amp;B </genre>
+        <year> 2010 </year>
+    </song>
+        <song>
+            <title> Put Your Records On </title>
+            <artist> Corinne Bailey Rae </artist>
+            <genre> R&amp;B </genre>
+            <year> 2006 </year>
+        </song>
+        <song>
+            <title> R&amp;B </title>
+            <artist> Colette Lush </artist>
+            <genre> R&amp;B </genre>
+            <year> 2020 </year>
+        </song>
+        <song>
+            <title> Beach Bummers </title>
+            <artist> No Vacation </artist>
+            <genre> Alternative/Indie </genre>
+            <year> 2015 </year>
+        </song>
+        <song>
+            <title> My Girl </title>
+            <artist> The Temptations </artist>
+            <genre> R&amp;B/Soul </genre>
+            <year> 1965 </year>
+        </song>
+        <song>
+            <title> Corny </title>
+            <artist> Rema </artist>
+            <genre> Afrobeats </genre>
+            <year> 2020 </year>
+        </song>
+        <song>
+            <title> Die For You </title>
+            <artist> The Weeknd </artist>
+            <genre> R&amp;B </genre>
+            <year> 2016 </year>
+        </song>
+        <song>
+            <title> Love on Top </title>
+            <artist> Beyoncé </artist>
+            <genre> R&amp;B </genre>
+            <year> 2011 </year>
+        </song>
+        <song>
+            <title> Baba </title>
+            <artist> Aminé </artist>
+            <genre> Hip-Hop/Rap </genre>
+            <year> 2016 </year>
+        </song>
+        <song>
+            <title> Love Yourz </title>
+            <artist> J Cole </artist>
+            <genre> Hip-Hop/Rap </genre>
+            <year> 2014 </year>
+        </song>    
+</songs>

@@ -1,0 +1,20 @@
+songs {
+     color: black;
+     background-color: grey;
+     width: 100%;
+}
+heading {
+     color: navy;
+     font-size : 40px;
+    margin-bottom: 100px;
+}
+ year, genre, artist, song, songs {
+     display : block;
+}
+ title {
+     font-size : 25px;
+     font-weight : bold;
+}
+song{
+    padding: 1%;
+}
